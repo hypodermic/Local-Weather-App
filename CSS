@@ -1,0 +1,37 @@
+body {
+  background: ;
+  background-size: contain;
+background-repeat: no-repeat;
+/*  not sure why it doesnt respond */
+  color:black;
+  font-family: 'Amatic SC', cursive;
+}
+.title {
+  text-align: center;
+  margin:30px;
+}
+.box {
+  width: 40%;
+  padding: 45px;
+  margin: 40px auto 100px auto;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px 10px;
+}
+#city {
+  font-size: 70px;
+}
+.btn {
+  font-size: 50px;
+  font-weight:bold;
+}
+.items li {
+  display: inline;
+  font-size: 30px;
+}
+.footer{      
+  text-align: center;    
+  bottom: 0px; 
+  width: 100%;
+  font-size: 30px;
+  font-weight:bold;
+   }  
